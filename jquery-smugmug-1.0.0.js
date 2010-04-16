@@ -125,7 +125,7 @@
         "smugmug.watermarks.getInfo"
 
     ], function() {
-		var method = this;
+		var method = this + "";
 		var pos = jQuery;
 		var minfo = method.split(".");
 		var mname = minfo.pop();

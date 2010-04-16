@@ -1,0 +1,15 @@
+This is a first pass at a completely client side slide show. All you need is the javascript and the rest just happens - there is no server side dependency, no flash. Two examples, the first, minimal, does not have any fancy effects, the second is based on the jquery cycle plugin (see below), see that site for more options.
+
+MIT License, have fun.
+Jerry and Pat
+
+FYI (in header as well):
+
+* jQuery Cycle Plugin (with Transition Definitions)
+* Examples and documentation at: http://jquery.malsup.com/cycle/
+* Copyright (c) 2007-2010 M. Alsup
+* Version: 2.86 (05-APR-2010)
+* Dual licensed under the MIT and GPL licenses:
+* http://www.opensource.org/licenses/mit-license.php
+* http://www.gnu.org/licenses/gpl.html
+* Requires: jQuery v1.2.6 or later
